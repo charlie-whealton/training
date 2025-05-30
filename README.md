@@ -1,6 +1,6 @@
 # Training Tutorials
 
-Use this repo to play around with Git and GitHub and to better understand what each command is really doing. I walk through beginner setup activities, as well as more advanced tools we use in the lab.
+Use this repo to play around with Git and GitHub and to better understand what each command is really doing. I walk through beginner setup activities, as well as more advanced tools we use in the lab. Updating the README file here. Second edit here.
 
 ## [Beginner Sections](./beginner.md)
 - [Introduction to Git and GitHub](./beginner.md#introduction)
